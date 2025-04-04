@@ -1,0 +1,22 @@
+﻿Service type;Services;Name;Website;Services details;DC
+1;Cloud provider PaaS/SaaS;Huawei;https://www.huaweicloud.com/;Cloud service SaaS, PaaS, IaaS;
+1;Cloud provider PaaS/SaaS;AWS ;https://aws.amazon.com/;Local Zone, Cloud service SaaS, PaaS, IaaS;
+2;DS, VPS, Storage ;Cirion ;https://www.ciriontechnologies.com/es-ar/data-centers/;Private cloud, Dynamic Enterprise, Bare Metal Cloud, Hosting, Storage and back-up;Cirion BUE1
+2;SD, VPS, Storage;SyT Datacenter;https://www.syt.com/;DS, storage, VPS;SyT Datacenter Carrier Neutral
+2;SD, VPS, Storage;IPXON;https://www.ipxon.com/en-gl/dc-buenos-aires-argentina;DS, VPS, Storage, Hosting;IPXON Buenos Aires
+3;BDD, Storage;SkyOnline;https://www.skyonline.net/;Nube hybrida,  Escritorios Virtuales (VDI), Servicios de Backup Remoto, Guarda de datos digitalizados, ERP as a service, Sitio de Contigencia, Canal Digital, Video On Demand;SKYONLINE
+3;BDD, Storage;Gigared;https://www.gigared.com.ar/empresas/datacenter;E-commerce, Disaster recovery, base de datos, IOT, big data, Storage;Gigared Data Center
+4;DS, VPS;G2KHostin ;https://www.g2khosting.com/;Cloud Hosting, Cloud Server, Servidor Dedicado;G2K Datacenter
+5;VPS;Telecom Argentina;https://www.telecom.com.ar/web/;VPS;Telecom Argentina Datacenter
+5;VPS;Intermedia;https://intermediasp.com/;Hosting, VPS;Intermedia SP Data Center
+5;VPS;ARSAT ;https://www.arsat.com.ar/infraestructura-tecnologica/datacenter/;VPS;ARSAT Buenos Aires
+5;VPS;Sitioshispanos;https://www.sitioshispanos.com/es/cloud-hosting;VPS, hosting;Ringo DCI
+5;VPS;Latin Cloud;https://latincloud.com/;VPS, hosting ;Nxnet
+5;VPS;BAEHOST ;https://baehost.com/es-ar/;VPS,DS, hosting ;BAEHOST Web Hosting & Cloud
+5;VPS;Allytech;https://www.allytech.com/;Web hosting, cloud VPS;Allytech
+5;VPS;WNPower;https://www.wnpower.com/;Web hosting, cloud VPS;WNPower
+6;DS;HOUSING.COM.AR ;https://www.housing.com.ar/;DS ;HOUSING.COM.AR San Martin
+7;Web hosting ;Neolo.com ;https://www.neolo.com/argentina/;Web hosting ;Neolo.com DC
+8;Network;Sencinet;https://www.sencinet.com/en;Hybrid cloud;Sencinet Argentina
+9;NA;Claro ;https://www.claro.com.ar/empresas/infraestructura;NA;Claro Data Center Olleros
+9;NA;Legion BSAS;NA;NA;Legion BSAS
